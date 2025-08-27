@@ -33,7 +33,7 @@ jobs:
           pyinstaller read.py --onefile --windowed
 
       - name: Upload macOS App
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: macOS-App
           path: dist
