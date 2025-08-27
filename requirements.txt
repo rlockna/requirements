@@ -1,5 +1,0 @@
-pdf2image
-PyPDF2
-python-docx
-python-pptx
-Pillow
